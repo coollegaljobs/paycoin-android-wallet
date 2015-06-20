@@ -26,6 +26,6 @@ __You can build all sub-projects at once using Maven:__
 
 __Donate to support further development:__
 
-You can donate peercoins to support further development of _Paycoin Android Wallet_ at 
-XPY:  PHGkjaFLUJqKpjXjELpW78egRrY3PovG9w
-BTC:  17sCKzSGWMhQLSSBHgMZ6mFGpd6SAfrdKY
+__You can donate peercoins to support further development of _Paycoin Android Wallet_ at__
+     XPY:  PHGkjaFLUJqKpjXjELpW78egRrY3PovG9w
+     BTC:  17sCKzSGWMhQLSSBHgMZ6mFGpd6SAfrdKY
