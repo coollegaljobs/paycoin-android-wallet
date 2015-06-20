@@ -1,4 +1,4 @@
-## Welcome to Paycoin Android Wallet_
+## Welcome to Paycoin Android Wallet
 
 __What is Paycoin Android Wallet_?__
 
